@@ -1,0 +1,13 @@
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.AssemblyInfoInputs.cache
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.AssemblyInfo.cs
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\bin\Debug\netcoreapp3.1\ActivationServiceConsole.exe
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\bin\Debug\netcoreapp3.1\ActivationServiceConsole.deps.json
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\bin\Debug\netcoreapp3.1\ActivationServiceConsole.runtimeconfig.json
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\bin\Debug\netcoreapp3.1\ActivationServiceConsole.runtimeconfig.dev.json
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\bin\Debug\netcoreapp3.1\ActivationServiceConsole.dll
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\bin\Debug\netcoreapp3.1\ActivationServiceConsole.pdb
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.dll
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.pdb
+C:\Users\Jon\Documents\ActivationService\ActivationServiceConsole\obj\Debug\netcoreapp3.1\ActivationServiceConsole.genruntimeconfig.cache

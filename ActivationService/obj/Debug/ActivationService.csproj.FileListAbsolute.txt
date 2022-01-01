@@ -1,0 +1,10 @@
+C:\Users\Jon\Documents\ActivationService\ActivationService\bin\Debug\ActivationService.exe.config
+C:\Users\Jon\Documents\ActivationService\ActivationService\bin\Debug\ActivationService.exe
+C:\Users\Jon\Documents\ActivationService\ActivationService\bin\Debug\ActivationService.pdb
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.Form1.resources
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.Properties.Resources.resources
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.csproj.GenerateResource.cache
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.exe
+C:\Users\Jon\Documents\ActivationService\ActivationService\obj\Debug\ActivationService.pdb
